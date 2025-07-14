@@ -1,0 +1,2 @@
+# JUNGLE_COMPANY_PROJECT
+중고 거래 플랫폼 MVP
